@@ -1,2 +1,3 @@
 # hotel-mirage.github.io
 Just a website in making with countless playthings....
+This is supposed to be a hotel where you get to see different simulations that are supposed to cure your boredom.
